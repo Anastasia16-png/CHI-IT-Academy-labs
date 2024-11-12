@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab8_API Unsplash </string>
+    <string name="photo_description">Photo from Unsplash</string>
+</resources>
